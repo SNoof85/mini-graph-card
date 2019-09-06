@@ -14,7 +14,14 @@ const DEFAULT_COLORS = [
   '#e74c3c',
   '#9b59b6',
   '#f1c40f',
+  '#1abc9c',
   '#2ecc71',
+  '#34495e',
+  '#e67e22',
+  '#7f8c8d',
+  '#27ae60',
+  '#2980b9',
+  '#8e44ad'
 ];
 const UPDATE_PROPS = ['entity', 'line', 'length', 'fill', 'points', 'tooltip', 'abs'];
 const DEFAULT_SHOW = {
